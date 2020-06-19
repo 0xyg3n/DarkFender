@@ -1,0 +1,9 @@
+C:\Users\dev\source\repos\DarkFender\DarkFender\bin\Debug\DarkFender.exe.config
+C:\Users\dev\source\repos\DarkFender\DarkFender\bin\Debug\DarkFender.exe
+C:\Users\dev\source\repos\DarkFender\DarkFender\bin\Debug\DarkFender.pdb
+C:\Users\dev\source\repos\DarkFender\DarkFender\obj\Debug\DarkFender.Form1.resources
+C:\Users\dev\source\repos\DarkFender\DarkFender\obj\Debug\DarkFender.Properties.Resources.resources
+C:\Users\dev\source\repos\DarkFender\DarkFender\obj\Debug\DarkFender.csproj.GenerateResource.cache
+C:\Users\dev\source\repos\DarkFender\DarkFender\obj\Debug\DarkFender.csproj.CoreCompileInputs.cache
+C:\Users\dev\source\repos\DarkFender\DarkFender\obj\Debug\DarkFender.exe
+C:\Users\dev\source\repos\DarkFender\DarkFender\obj\Debug\DarkFender.pdb
