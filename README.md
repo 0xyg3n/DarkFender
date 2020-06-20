@@ -1,5 +1,5 @@
 # DarkFender
-#### Disable Windows Defender Silently (ByPass TamperProtection & ByPass Trustednstaller Restriction)
+#### Disable Windows Defender Silently (ByPass TamperProtection & ByPass TrustedInstaller Restriction)
 
 # Requirements
 * Run the Process As Administrator
