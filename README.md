@@ -3,14 +3,38 @@
 
 ----------------------
 
-# Update 31/07/2020
+> # Update 31/07/2020
 > # Weird Bug Spotted (Possible Patch By Microsoft)
 
+> * Virtual Machine (Weird Bug)
 > ![GIF bug](https://i.imgur.com/BL4DBuk.gif)
-> * It's really Weird that this occurs, maybe there is a real time service protection.
-> * The code seems to be working, meaning that the permissions get changed.
-> * But the value cannot be changed even if the permissions are changed!
-> * I even tried to manually change the permissions and edit the registry field but no luck!
+
+----------------------
+
+> * Virtual Machine WinVer
+> ![VM winver](https://i.imgur.com/44EvV5Z.png)
+
+----------------------
+
+> * Personal Computer (DarkFender Works Here)
+> ![GIF working](https://i.imgur.com/E9HPEEz.gif)
+
+----------------------
+
+> * WinVer of Working Computer.
+> ![Personal pc winver](https://i.imgur.com/l0VVcdP.png)
+
+----------------------
+
+> * #### The OS version is the same on both machines but it seems to not working on the VM.
+> * #### It's really Weird that this occurs, maybe there is a real time service protection.
+> * #### The code seems to be working, meaning that the permissions get changed.
+> * #### But the value cannot be changed even if the permissions are changed!
+> * #### I even tried to manually change the permissions and edit the registry field but no luck!
+
+----------------------
+
+> # Working on a solution..
 
 ----------------------
 
