@@ -5,6 +5,7 @@
 
 > # Update 31/07/2020
 > # Weird Bug Spotted (Possible Patch By Microsoft)
+> ##### Special Thanks to cagedh1 for reporting it.
 
 > * Virtual Machine (Weird Bug)
 > ![GIF bug](https://i.imgur.com/BL4DBuk.gif)
